@@ -1,0 +1,10 @@
+F:\WorldSkills\Т89АИСУ\WSRproject1\WSRproject1\bin\Debug\WSRproject1.exe.config
+F:\WorldSkills\Т89АИСУ\WSRproject1\WSRproject1\bin\Debug\WSRproject1.exe
+F:\WorldSkills\Т89АИСУ\WSRproject1\WSRproject1\bin\Debug\WSRproject1.pdb
+F:\WorldSkills\Т89АИСУ\WSRproject1\WSRproject1\obj\Debug\WSRproject1.csprojAssemblyReference.cache
+F:\WorldSkills\Т89АИСУ\WSRproject1\WSRproject1\obj\Debug\WSRproject1.Form1.resources
+F:\WorldSkills\Т89АИСУ\WSRproject1\WSRproject1\obj\Debug\WSRproject1.Properties.Resources.resources
+F:\WorldSkills\Т89АИСУ\WSRproject1\WSRproject1\obj\Debug\WSRproject1.csproj.GenerateResource.cache
+F:\WorldSkills\Т89АИСУ\WSRproject1\WSRproject1\obj\Debug\WSRproject1.csproj.CoreCompileInputs.cache
+F:\WorldSkills\Т89АИСУ\WSRproject1\WSRproject1\obj\Debug\WSRproject1.exe
+F:\WorldSkills\Т89АИСУ\WSRproject1\WSRproject1\obj\Debug\WSRproject1.pdb
